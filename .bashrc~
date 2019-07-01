@@ -127,7 +127,6 @@ alias ..='cd ..'
 alias projects='cd ~/Projects'
 alias class='cd ~/Projects/Class'
 alias dotfiles='cd ~/Projects/dotfiles'
-alias cs141='cd ~/Projects/Class/CS141'
 
 alias g='git'
 alias gi='git init'
